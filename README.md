@@ -7,7 +7,7 @@ This repository contains files for:
   - README.md
 
 ### Seminar Wiki
-We'll be using [GitHub's wiki tool](https://help.github.com/articles/about-github-wikis/) to create jotters for each week. These will be our notes about what we talk about, and will also include some additional examples and helpful tricks. You can find the wiki by going to the [homepage]() or clicking on the 'Wiki' tab in this repository.
+We'll be using [GitHub's wiki tool](https://help.github.com/articles/about-github-wikis/) to create jotters for each week. These will be our notes about what we talk about, and will also include some additional examples and helpful tricks. You can find the wiki by going to the [homepage](https://github.com/slu-data-science-seminar/fall-2016-core-documents/wiki) or clicking on the 'Wiki' tab in this repository.
 
 ### Fall 2016 - Plots & Figures in `R`
 This is the second edition of the SLU Data Science Seminar (DSS). This semester is focused on using `R` to produce plots and figures of your data. We'll pay particular attention to a well-known graphics package named [`ggplot2`](https://en.wikipedia.org/wiki/Ggplot2). Along the way, we'll also provide you with an overview of the nuts and bolts of `R`.
