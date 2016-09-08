@@ -5,6 +5,7 @@ This repository contains files for:
   - dss-02-syllabus.pdf
   - LICENSE.md
   - README.md
+  - .gitignore
 
 ### Seminar Wiki
 We'll be using [GitHub's wiki tool](https://help.github.com/articles/about-github-wikis/) to create jotters for each week. These will be our notes about what we talk about, and will also include some additional examples and helpful tricks. You can find the wiki by going to the [homepage](https://github.com/slu-data-science-seminar/fall-2016-core-documents/wiki) or clicking on the 'Wiki' tab in this repository.
